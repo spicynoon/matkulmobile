@@ -1,1 +1,3 @@
-# Kumpulan Tugas Mata Kuliah Mobile App Development - Yandiyan (1217050144)
+# UTS Praktikum Pengembangan Aplikasi Mobile.
+Yandiyan <br/>
+1217050144 <br/>
