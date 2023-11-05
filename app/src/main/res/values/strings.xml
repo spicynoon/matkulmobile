@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string name="store">Store</string>
+    <string name="please_fill_your_name">Masukkan Nama Anda</string>
+    <string name="yourname">Your Name</string>
+    <string name="submit">Submit</string>
+    <string name="tambah">babi</string>
+    <string name="menus">See Menus</string>
+    <string name="cihampelas">Cihampelas</string>
+
+    // Halaman 3
+    <string name="text_intro">Droid Desserts</string>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_regular">16dp</dimen>
+    <dimen name="margin_wide">16dp</dimen>
+    <dimen name="text_heading">14sp</dimen>
+
+    <string name="pizza">Pepperoni Pizza</string>
+    <string name="spaghetti">Spaghetti</string>
+    <string name="burger">Burger</string>
+    <string name="steak">Steak</string>
+
+    <string name="pizzades">Pepperoni Pizza Cocok bagi anda yang ingin merasakan pizza original dengan taburan keju dan daging asap yang lezat</string>
+    <string name="spaghettides">Spaghetti Cocok bagi anda yang ingin merasakan spaghetti original dengan bumbu yang oriental</string>
+    <string name="burgerdes">Burger Cocok bagi anda yang ingin merasakan kelembutan burger berlapiskan keju, sayuran dan daging yang tebal</string>
+    <string name="steakdes">Steak Cocok bagi anda yang ingin merasakan lezatnya daging steak dipadukan dengan kentang yang lezat</string>
+
+
+    <string name="pizza_order_message">You ordered a pepperoni pizza.</string>
+    <string name="spaghetti_order_message">You ordered spaghetti.</string>
+    <string name="burger_order_message">You ordered a burger.</string>
+    <string name="steak_order_message">You ordered a steak.</string>
+
+    //Halaman 4
+    <string name="hargapizza">Price: Rp 66.000,00</string>
+    <string name="despizzapanjang">Pepperoni pizza adalah pizza yang memiliki topping daging pepperoni sapi asli. Di Italia, pepperoni disebut salame piccante (salami panas). Biasa menjadi bahan baku pizza di Amerika Serikat, yang sering mewakili 30% pelengkap. Pizza ini cocok untuk santap siang ataupun malam anda</string>
+    <string name="ordernow">Order Now</string>
+    <string name="back">Back</string>
+
+    //Halaman 5
+    <string name="orderdetail">Order Detail</string>
+    <string name="pengiriman">Pengiriman</string>
+    <string name="buttondone">Done</string>
+    <string name="terimakasih">Terima kasih Pa Asep sudah memesan ditoko kami, pesanan Pepperoni Pizza anda dikirim menggunakan Fast Delivery</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
